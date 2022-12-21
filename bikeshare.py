@@ -12,6 +12,12 @@ def aboutme():
     print('''
     My Name is: Ayed Mushabbab AlQahtani, i am intersted in learning new technology.
     ''')
+
+def useful():
+    print('''
+    the useful of this project is it can help you to find out the bike information shared here from the internet and its just for some important cities in the U.S. of America
+    Such as : Washintgon, Newyork, Chicago.
+    ''')
 #Function to figure out the filtering requirements of the user
 def get_filters():
     """

@@ -16,4 +16,4 @@ https://github.com/Ayed86/Explore-US-Bikeshare-Data-
 ###About me
 Ayed mushabbab alqahtani, I am intersted in learning a new technology.
 ###Author
-the Author is Ayed musabbab AlQahtani, intersted in learning a new technology.
+the Author is Ayed musabbab AlQahtani, intersted in learning a new technology

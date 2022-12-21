@@ -8,6 +8,10 @@ CITY_DATA = { 'chicago': 'data/chicago.csv', 'Chicago': 'data/chicago.csv',
               'new york city': 'data/new_york_city.csv', 'washington': 'data/washington.csv',
              'Washington': 'data/washington.csv' }
 
+def aboutme():
+    print('''
+    My Name is: Ayed Mushabbab AlQahtani, i am intersted in learning new technology.
+    ''')
 #Function to figure out the filtering requirements of the user
 def get_filters():
     """
